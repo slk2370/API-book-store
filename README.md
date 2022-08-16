@@ -1,7 +1,7 @@
 #API book store automation
 
 
-Clone the project
+## Clone the project
 
 ```bash
   git clone https://github.com/slk2370/API-book-store.git
@@ -20,6 +20,7 @@ Install dependencies
 ```
 
 Make sure that you have "axios","chai","mocha","random-words" frameworks installed
+
 
 ## Running Tests
 
