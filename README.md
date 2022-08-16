@@ -7,7 +7,8 @@
   git clone https://github.com/slk2370/API-book-store.git
 ```
 
-Go to the project directory
+- Go to the project directory
+
 
 ```bash
   cd books-api-testing
@@ -22,7 +23,7 @@ Go to the project directory
 Make sure that you have "axios","chai","mocha","random-words" frameworks installed
 
 
-- ## Running Tests
+## Running Tests
 
 - To run tests, run the following command
 
