@@ -1,10 +1,36 @@
 #API book store automation
 
-- 1. Copy repository to your local by typing  ```$ git clone https://github.com/slk2370/API-book-store.git``` in your terminal.
-- 2. Run ```$ npm init``` in your terminal.
-- 3. Make sure that you have "axios","chai","mocha","random-words" frameworks installed
-- 4. Run ```$ npm test``` in your terminal to execute the tests
-- 5. If you would like to change the book ID (only for GET requests), simply change it in ```crdentials/credentials.json```.
+
+Clone the project
+
+```bash
+  git clone https://github.com/slk2370/API-book-store.git
+```
+
+Go to the project directory
+
+```bash
+  cd books-api-testing
+```
+
+Install dependencies
+
+```bash
+  npm init
+```
+
+Make sure that you have "axios","chai","mocha","random-words" frameworks installed
+
+## Running Tests
+
+To run tests, run the following command
+
+```$ npm test```
+
+If you would like to change the book ID (only for GET requests), simply change it in 
+
+```books-api-testing/crdentials/credentials.json```.
 
 Enjoy !!!
+
 [@MikhailEfimov](https://github.com/slk2370)
