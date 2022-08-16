@@ -3,11 +3,11 @@
 
 ## Clone the project
 
-- ```bash
+```bash
   git clone https://github.com/slk2370/API-book-store.git
 ```
 
-- Go to the project directory
+Go to the project directory
 
 ```bash
   cd books-api-testing
