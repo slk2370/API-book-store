@@ -5,5 +5,6 @@
 - 3. Make sure that you have "axios","chai","mocha","random-words" frameworks installed
 - 4. Run ```$ npm test``` in your terminal to execute the tests
 - 5. If you would like to change the book ID (only for GET requests), simply change it in ```crdentials/credentials.json```.
-- Enjoy !!!
-- [@katherinepeterson](https://www.github.com/octokatherine)
+
+Enjoy !!!
+[@MikhailEfimov](https://github.com/slk2370)
